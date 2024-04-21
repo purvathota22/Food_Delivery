@@ -1,4 +1,4 @@
-This contains the FrontEnd Code of Admin Portal of Capdine(Food Delivery Service)
+This contains the FrontEnd Code of Delivery Driver Portal of Capdine(Food Delivery Service)
 
 # Getting Started with Create React App
 
