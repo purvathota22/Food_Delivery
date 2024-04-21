@@ -1,3 +1,5 @@
+This contains the FrontEnd Code of Capdine(Food Delivery Service)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
